@@ -19,5 +19,6 @@ var textData = fs.readFileSync("read.txt");
 //console.log(textData.toString());
 
 // reading data from a c++ file
-var cppData = fs.readFileSync("find_maximum_number.cpp").toString();
+// var cppData = fs.readFileSync("find_maximum_number.cpp").toString(); // or another method
+var cppData = fs.readFileSync("read.txt","utf-8");
 console.log(cppData);

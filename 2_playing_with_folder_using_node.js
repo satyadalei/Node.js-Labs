@@ -8,26 +8,33 @@
 
 
 
+const { log } = require("console");
 const fs = require("fs");
 
 //1: create folder
 //fs.mkdirSync("Satya");
 
 //2: create file and add text
-//fs.writeFileSync("./Satya/myname.txt","Hello There! My name is Satyanarayan Dalei")
+//fs.writeFileSync("./selfrespect.txt","How staty focused??");
 
 //3: add more data
-//fs.appendFileSync("./Satya/myname.txt","\nI hope you all will enjoy the content here..");
+//fs.appendFileSync("./selfrespect.txt","Hi content changed here!!!");
 
 //4: read data
 //var dataInFile = fs.readFileSync("./Satya/myname.txt").toString();
 //console.log(dataInFile);
 
 //5: rename a file name :
-fs.rename("./satya/yourname.txt","urname.txt",(err)=>{
-    if (err) {
-        console.log(err);
-    }else{
-        console.log("\nRenamed successfully");
-    }
-})
+// fs.rename("./urname.txt","selfrespect.txt",(err)=>{
+//     if (err) {
+//         console.log(err);
+//     }else{
+//         console.log("\nRenamed successfully");
+//     }
+// })
+
+//6. delete a file 
+//fs.rmSync("./Satya");
+
+//7. delete a folder.
+//fs.rmdirSync("./Satya");
