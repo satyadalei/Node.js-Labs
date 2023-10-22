@@ -350,7 +350,97 @@ const timeZones = [
     {
         region: "Eswatini",
         regionTimeZones: [
-            "Europe/Tallinn",
+            "Africa/Mbabane",
+        ],
+    },
+    {
+        region: "Ethiopia",
+        regionTimeZones: [
+            "Africa/Addis_Ababa",
+        ],
+    },
+    // F ----------
+    {
+        region: "Falkland Islands (UK)",
+        regionTimeZones: [
+            "Atlantic/Stanley",
+        ],
+    },
+    {
+        region: "Faroe Islands (Denmark)",
+        regionTimeZones: [
+            "Atlantic/Faroe",
+        ],
+    },
+    {
+        region: "Fiji",
+        regionTimeZones: [
+            "Pacific/Fiji",
+        ],
+    },
+    {
+        region: "Finland",
+        regionTimeZones: [
+            "Europe/Helsinki",
+        ],
+    },
+    {
+        region: "France",
+        regionTimeZones: [
+            "Europe/Paris",
+        ],
+    },
+    {
+        region: "French Guiana (France)",
+        regionTimeZones: [
+            "America/Cayenne",
+        ],
+    },
+    {
+        region: "French Polynesia",
+        regionTimeZones: [
+            "Pacific/Tahiti",
+            "Pacific/Marquesas",
+            "Pacific/Gambier",
+        ],
+    },
+    {
+        region: "French Polynesia",
+        regionTimeZones: [
+            "Pacific/Tahiti",
+            "Pacific/Marquesas",
+            "Pacific/Gambier",
+        ],
+    },
+    // G ----------
+    {
+        region: "Gabon",
+        regionTimeZones: [
+            "Africa/Libreville",
+        ],
+    },
+    {
+        region: "Gambia",
+        regionTimeZones: [
+            "Africa/Banjul",
+        ],
+    },
+    {
+        region: "Georgia",
+        regionTimeZones: [
+            "Asia/Tbilisi",
+        ],
+    },
+    {
+        region: "Germany",
+        regionTimeZones: [
+            "Europe/Berlin",
+        ],
+    },
+    {
+        region: "Ghana",
+        regionTimeZones: [
+            "Africa/Accra",
         ],
     },
 ];
