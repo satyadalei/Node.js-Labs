@@ -553,14 +553,45 @@ const timeZones = [
     {
         region: "Indonesia",
         regionTimeZones: [
-            "Asia/Jakarta",
+            "Asia/Jakarta", // Sumatra Island, Java Island, West Kalimantan, Central Kalimantan
+            "Asia/Jayapura",
+            "Asia/Dili"
         ],
     },
     {
-        region: "Indonesia",
+        region: "Iran",
         regionTimeZones: [
-            "Asia/Jakarta", // Sumatra Island, Java Island, West Kalimantan, Central Kalimantan
-            "Asia/Jayapura"
+            "Iran", 
+        ],
+    },
+    {
+        region: "Iraq",
+        regionTimeZones: [
+            "Asia/Baghdad", 
+        ],
+    },
+    {
+        region: "Ireland",
+        regionTimeZones: [
+            "Europe/Dublin", 
+        ],
+    },
+    {
+        region: "Isle of Man (UK)",
+        regionTimeZones: [
+            "Europe/Isle_of_Man", 
+        ],
+    },
+    {
+        region: "Israel",
+        regionTimeZones: [
+            "Israel", 
+        ],
+    },
+    {
+        region: "Italy",
+        regionTimeZones: [
+            "Europe/Rome", 
         ],
     },
 ];
