@@ -594,6 +594,39 @@ const timeZones = [
             "Europe/Rome", 
         ],
     },
+    // J --------------
+    {
+        region: "Jamaica",
+        regionTimeZones: [
+            "America/Jamaica", 
+        ],
+    },
+    {
+        region: "Japan",
+        regionTimeZones: [
+            "Asia/Tokyo", 
+        ],
+    },
+    {
+        region: "Jersey (UK)",
+        regionTimeZones: [
+            "Europe/Jersey", 
+        ],
+    },
+    {
+        region: "Jordan",
+        regionTimeZones: [
+            "Asia/Amman", 
+        ],
+    },
+    {
+        region: "Jordan",
+        regionTimeZones: [
+            "Asia/Amman", 
+        ],
+    },
+    // K ------------
+    
 ];
 
 module.exports = timeZones;
