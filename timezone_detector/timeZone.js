@@ -871,6 +871,78 @@ const timeZones = [
         ],
     },
     //  N ---------
+    {
+        region: "Namibia",
+        regionTimeZones: [
+            "Africa/Windhoek",
+        ],
+    },
+    {
+        region: "Nauru",
+        regionTimeZones: [
+            "Pacific/Nauru",
+        ],
+    },
+    {
+        region: "Nepal",
+        regionTimeZones: [
+            "Asia/Kathmandu",
+        ],
+    },
+    {
+        region: "Netherlands",
+        regionTimeZones: [
+            "Europe/Amsterdam",
+        ],
+    },
+    {
+        region: "New Caledonia (France)",
+        regionTimeZones: [
+            "Pacific/Noumea",
+        ],
+    },
+    {
+        region: "New Zealand",
+        regionTimeZones: [
+            "Pacific/Auckland",
+        ],
+    },
+    {
+        region: "Nicaragua",
+        regionTimeZones: [
+            "America/Managua",
+        ],
+    },
+    {
+        region: "Niger",
+        regionTimeZones: [
+            "Africa/Niamey",
+        ],
+    },
+    {
+        region: "Nigeria",
+        regionTimeZones: [
+            "Africa/Douala",
+        ],
+    },
+    {
+        region: "Niue (New Zealand)",
+        regionTimeZones: [
+            "Pacific/Niue",
+        ],
+    },
+    {
+        region: "Norfolk Island (Australia)",
+        regionTimeZones: [
+            "Pacific/Norfolk",
+        ],
+    },
+    {
+        region: "Northern Mariana Islands (USA)",
+        regionTimeZones: [
+            "Pacific/Norfolk",
+        ],
+    },
 
 
 ];
