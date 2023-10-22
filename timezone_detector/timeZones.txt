@@ -1,0 +1,148 @@
+---- These are Time zones ------
+(GMT-11:00) Midway Island, Samoa
+(GMT-11:00) Pago Pago
+(GMT-10:00) Hawaii
+(GMT-8:00) Alaska
+(GMT-8:00) Juneau
+(GMT-7:00) Vancouver
+(GMT-7:00) Pacific Time (US and Canada)
+(GMT-7:00) Tijuana
+(GMT-7:00) Arizona
+(GMT-7:00) Mazatlan
+(GMT-7:00) Yukon
+(GMT-6:00) Edmonton
+(GMT-6:00) Mountain Time (US and Canada)
+(GMT-6:00) Saskatchewan
+(GMT-6:00) Mexico City
+(GMT-6:00) Guatemala
+(GMT-6:00) El Salvador
+(GMT-6:00) Managua
+(GMT-6:00) Costa Rica
+(GMT-6:00) Tegucigalpa
+(GMT-6:00) Chihuahua
+(GMT-6:00) Monterrey
+(GMT-5:00) Winnipeg
+(GMT-5:00) Central Time (US and Canada)
+(GMT-5:00) Panama
+(GMT-5:00) Bogota
+(GMT-5:00) Lima
+(GMT-5:00) Acre
+(GMT-4:00) Montreal
+(GMT-4:00) Eastern Time (US and Canada)
+(GMT-4:00) Indiana (East)
+(GMT-4:00) Puerto Rico
+(GMT-4:00) Caracas
+(GMT-4:00) La Paz
+(GMT-4:00) Guyana
+(GMT-3:00) Halifax
+(GMT-3:00) Santiago
+(GMT-3:00) Montevideo
+(GMT-3:00) Recife
+(GMT-3:00) Buenos Aires, Georgetown
+(GMT-3:00) Sao Paulo
+(GMT-3:00) Atlantic Time (Canada)
+(GMT-2:00) Greenland
+(GMT-2:00) Fernando de Noronha
+(GMT-1:00) Cape Verde Islands
+(GMT+0:00) Azores
+(GMT+0:00) Universal Time UTC
+(GMT+0:00) Greenwich Mean Time
+(GMT+0:00) Reykjavik
+(GMT+0:00) Nouakchott
+(GMT+1:00) Dublin
+(GMT+1:00) London
+(GMT+1:00) Lisbon
+(GMT+1:00) Casablanca
+(GMT+1:00) West Central Africa
+(GMT+1:00) Algiers
+(GMT+1:00) Tunis
+(GMT+2:00) Belgrade, Bratislava, Ljubljana
+(GMT+2:00) Sarajevo, Skopje, Zagreb
+(GMT+2:00) Oslo
+(GMT+2:00) Copenhagen
+(GMT+2:00) Brussels
+(GMT+2:00) Amsterdam, Berlin, Rome, Stockholm, Vienna
+(GMT+2:00) Amsterdam
+(GMT+2:00) Rome
+(GMT+2:00) Stockholm
+(GMT+2:00) Vienna
+(GMT+2:00) Luxembourg
+(GMT+2:00) Paris
+(GMT+2:00) Zurich
+(GMT+2:00) Madrid
+(GMT+2:00) Harare, Pretoria
+(GMT+2:00) Warsaw
+(GMT+2:00) Prague Bratislava
+(GMT+2:00) Budapest
+(GMT+2:00) Tripoli
+(GMT+2:00) Johannesburg
+(GMT+2:00) Khartoum
+(GMT+3:00) Helsinki
+(GMT+3:00) Nairobi
+(GMT+3:00) Sofia
+(GMT+3:00) Istanbul
+(GMT+3:00) Athens
+(GMT+3:00) Bucharest
+(GMT+3:00) Nicosia
+(GMT+3:00) Beirut
+(GMT+3:00) Damascus
+(GMT+3:00) Jerusalem
+(GMT+3:00) Amman
+(GMT+3:00) Cairo
+(GMT+3:00) Moscow
+(GMT+3:00) Baghdad
+(GMT+3:00) Kuwait
+(GMT+3:00) Riyadh
+(GMT+3:00) Bahrain
+(GMT+3:00) Qatar
+(GMT+3:00) Aden
+(GMT+3:00) Djibouti
+(GMT+3:00) Mogadishu
+(GMT+3:00) Kyiv
+(GMT+3:00) Minsk
+(GMT+3:00) Chisinau
+(GMT+3:30) Tehran
+(GMT+4:00) Dubai
+(GMT+4:00) Muscat
+(GMT+4:00) Baku, Tbilisi, Yerevan
+(GMT+4:30) Kabul
+(GMT+5:00) Yekaterinburg
+(GMT+5:00) Islamabad, Karachi, Tashkent
+(GMT+5:30) India
+(GMT+5:30) Mumbai, Kolkata, New Delhi
+(GMT+5:30) Colombo
+(GMT+5:45) Kathmandu
+(GMT+6:00) Almaty
+(GMT+6:00) Dacca
+(GMT+6:00) Astana, Dhaka
+(GMT+6:30) Rangoon
+(GMT+7:00) Novosibirsk
+(GMT+7:00) Krasnoyarsk
+(GMT+7:00) Bangkok
+(GMT+7:00) Vietnam
+(GMT+7:00) Jakarta
+(GMT+8:00) Irkutsk, Ulaanbaatar
+(GMT+8:00) Beijing, Shanghai
+(GMT+8:00) Hong Kong SAR
+(GMT+8:00) Taipei
+(GMT+8:00) Kuala Lumpur
+(GMT+8:00) Singapore
+(GMT+8:00) Perth
+(GMT+9:00) Yakutsk
+(GMT+9:00) Seoul
+(GMT+9:00) Osaka, Sapporo, Tokyo
+(GMT+9:30) Darwin
+(GMT+10:00) Vladivostok
+(GMT+10:00) Guam, Port Moresby
+(GMT+10:00) Brisbane
+(GMT+10:30) Adelaide
+(GMT+11:00) Canberra, Melbourne, Sydney
+(GMT+11:00) Hobart
+(GMT+11:00) Magadan
+(GMT+11:00) Solomon Islands
+(GMT+11:00) New Caledonia
+(GMT+11:00) Lord Howe IsIand
+(GMT+12:00) Kamchatka
+(GMT+12:00) Fiji Islands, Marshall Islands
+(GMT+13:00) Auckland, Wellington
+(GMT+13:00) Independent State of Samoa

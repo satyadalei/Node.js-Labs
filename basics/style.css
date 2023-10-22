@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.certificate{
+    width: 80%;
+    height: 80vh;
+    background-color: red;
+    margin: 10vh auto;
+    border-radius: 1rem;
+    position: relative;
+    /* overflow: hidden; */
+}
+.corner-div{
+    width: 50%;
+    height: 50%;
+    /* background-color: blue; */
+    border: 1px solid blue;
+    position: absolute;
+
+}
+.corner-left-bottom{
+    top: 70%;
+    left: -20%;
+    transform: rotate(45deg);
+}
+.corner-top-right{
+    top: -30%;
+    right: -20%;
+    transform: rotate(45deg);
+}
