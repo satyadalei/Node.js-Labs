@@ -1045,6 +1045,12 @@ const timeZones = [
         ],
     },
     // Q -------------
+    {
+        region: "Qatar",
+        regionTimeZones: [
+            "Asia/Qatar",
+        ],
+    },
 
 
 
