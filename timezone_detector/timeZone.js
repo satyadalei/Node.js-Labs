@@ -940,9 +940,28 @@ const timeZones = [
     {
         region: "Northern Mariana Islands (USA)",
         regionTimeZones: [
-            "Pacific/Norfolk",
+            "Pacific/Saipan",
         ],
     },
+    {
+        region: "North Korea",
+        regionTimeZones: [
+            "Asia/Pyongyang",
+        ],
+    },
+    {
+        region: "North Macedonia",
+        regionTimeZones: [
+            "Europe/Skopje",
+        ],
+    },
+    {
+        region: "Norway",
+        regionTimeZones: [
+            "Europe/Oslo",
+        ],
+    },
+    //  O -------------------
 
 
 ];
