@@ -727,6 +727,150 @@ const timeZones = [
         ],
     },
     // M-----------------
+    {
+        region: "Macau (China)",
+        regionTimeZones: [
+            "Asia/Shanghai",
+        ],
+    },
+    {
+        region: "Madagascar",
+        regionTimeZones: [
+            "Indian/Antananarivo",
+        ],
+    },
+    {
+        region: "Malawi",
+        regionTimeZones: [
+            "Africa/Blantyre",
+        ],
+    },
+    {
+        region: "Malaysia",
+        regionTimeZones: [
+            "Asia/Kuala_Lumpur",
+        ],
+    },
+    {
+        region: "Maldives",
+        regionTimeZones: [
+            "Indian/Maldives",
+        ],
+    },
+    {
+        region: "Mali",
+        regionTimeZones: [
+            "Africa/Bamako",
+        ],
+    },
+    {
+        region: "Malta",
+        regionTimeZones: [
+            "Europe/Malta",
+        ],
+    },
+    {
+        region: "Marshall Islands",
+        regionTimeZones: [
+            "Pacific/Majuro",
+        ],
+    },
+    {
+        region: "Martinique (France)",
+        regionTimeZones: [
+            "America/Martinique",
+        ],
+    },
+    {
+        region: "Mauritania",
+        regionTimeZones: [
+            "Africa/Nouakchott",
+        ],
+    },
+    {
+        region: "Mauritius",
+        regionTimeZones: [
+            "Indian/Mauritius",
+        ],
+    },
+    {
+        region: "Mayotte (France)",
+        regionTimeZones: [
+            "Indian/Mayotte",
+        ],
+    },
+    {
+        region: "Mexico",
+        regionTimeZones: [
+            "America/Hermosillo", // Mexico, state of Sonora 7:30
+            "America/Mexico_City", //Mexico most of 8:30
+            "America/Belize",  // 8:30
+            "America/Cancun", // time in Mexico, state of Quintana Roo 9:30
+        ],
+    },
+    {
+        region: "Micronesia",
+        regionTimeZones: [
+            "Pacific/Pohnpei",
+        ],
+    },
+    {
+        region: "Micronesia",
+        regionTimeZones: [
+            "Pacific/Pohnpei", // states of Kosrae and Pohnpei
+            "Pacific/Chuuk", // states of Chuuk and Yap
+        ],
+    },
+    {
+        region: "Moldova",
+        regionTimeZones: [
+            "Europe/Chisinau",
+        ],
+    },
+    {
+        region: "Monaco",
+        regionTimeZones: [
+            "Europe/Monaco",
+        ],
+    },
+    {
+        region: "Mongolia",
+        regionTimeZones: [
+            "Asia/Ulaanbaatar", // most of
+            "Asia/Hovd",  // provinces of Khovd, Uvs, Bayan-Olgii
+        ],
+    },
+    {
+        region: "Montenegro",
+        regionTimeZones: [
+            "Europe/Podgorica", 
+        ],
+    },
+    {
+        region: "Montserrat (UK)",
+        regionTimeZones: [
+            "America/Montserrat",
+        ],
+    },
+    {
+        region: "Morocco",
+        regionTimeZones: [
+            "Africa/Casablanca",
+        ],
+    },
+    {
+        region: "Mozambique",
+        regionTimeZones: [
+            "Africa/Maputo",
+        ],
+    },
+    {
+        region: "Myanmar",
+        regionTimeZones: [
+            "Asia/Yangon",
+        ],
+    },
+    //  N ---------
 
 
 ];

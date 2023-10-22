@@ -5,7 +5,8 @@ const timeZones = require("./timeZone")
 // console.log(timeZones);
 
 // const timeZone = 'Asia/Bahrain';  
-const timeZone = timeZones[timeZones.length - 1].regionTimeZones[0];  
+const timeZone = timeZones[timeZones.length - 1].regionTimeZones[0]; 
+console.log("Total countries timezone added : " + timeZones.length); 
 const currentTimeInTimeZone = moment().tz(timeZone).format();
 console.log('Current time in', timeZone, ':', currentTimeInTimeZone);
 
