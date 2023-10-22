@@ -443,6 +443,126 @@ const timeZones = [
             "Africa/Accra",
         ],
     },
+    {
+        region: "Gibraltar (UK)",
+        regionTimeZones: [
+            "Europe/Gibraltar",
+        ],
+    },
+    {
+        region: "Greece",
+        regionTimeZones: [
+            "Europe/Athens",
+        ],
+    },
+    {
+        region: "Greenland",
+        regionTimeZones: [
+            "America/Nuuk",
+            "America/Thule",
+            "America/Scoresbysund",
+            "UTC"
+        ],
+    },
+    {
+        region: "Grenada",
+        regionTimeZones: [
+            "America/Grenada",
+        ],
+    },
+    {
+        region: "Guadeloupe (France)",
+        regionTimeZones: [
+            "America/Guadeloupe",
+        ],
+    },
+    {
+        region: "Guam (USA)",
+        regionTimeZones: [
+            "Pacific/Guam",
+        ],
+    },
+    {
+        region: "Guatemala",
+        regionTimeZones: [
+            "America/Guatemala",
+        ],
+    },
+    {
+        region: "Guernsey (UK)",
+        regionTimeZones: [
+            "Europe/Guernsey",
+        ],
+    },
+    {
+        region: "Guinea",
+        regionTimeZones: [
+            "Africa/Conakry",
+        ],
+    },
+    {
+        region: "Guinea-Bissau",
+        regionTimeZones: [
+            "Africa/Bissau",
+        ],
+    },
+    {
+        region: "Guyana",
+        regionTimeZones: [
+            "America/Guyana",
+        ],
+    },
+    // H -------
+    {
+        region: "Haiti",
+        regionTimeZones: [
+            "America/Port-au-Prince",
+        ],
+    },
+    {
+        region: "Honduras",
+        regionTimeZones: [
+            "America/Tegucigalpa",
+        ],
+    },
+    {
+        region: "Hong Kong (China)",
+        regionTimeZones: [
+            "Asia/Hong_Kong",
+        ],
+    },
+    {
+        region: "Hungary",
+        regionTimeZones: [
+            "Europe/Budapest",
+        ],
+    },
+    //  I ------------
+    {
+        region: "Iceland",
+        regionTimeZones: [
+            "Iceland",
+        ],
+    },
+    {
+        region: "India",
+        regionTimeZones: [
+            "Asia/Calcutta",
+        ],
+    },
+    {
+        region: "Indonesia",
+        regionTimeZones: [
+            "Asia/Jakarta",
+        ],
+    },
+    {
+        region: "Indonesia",
+        regionTimeZones: [
+            "Asia/Jakarta", // Sumatra Island, Java Island, West Kalimantan, Central Kalimantan
+            "Asia/Jayapura"
+        ],
+    },
 ];
 
 module.exports = timeZones;
