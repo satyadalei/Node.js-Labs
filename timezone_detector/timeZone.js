@@ -968,6 +968,84 @@ const timeZones = [
             "Asia/Muscat",
         ],
     },
+    // P -------------------
+    {
+        region: "Pakistan",
+        regionTimeZones: [
+            "Asia/Karachi",
+        ],
+    },
+    {
+        region: "Palau",
+        regionTimeZones: [
+            "Pacific/Palau",
+        ],
+    },
+    {
+        region: "Palestine",
+        regionTimeZones: [
+            "Asia/Jerusalem",
+        ],
+    },
+    {
+        region: "Panama",
+        regionTimeZones: [
+            "America/Panama",,
+        ],
+    },
+    {
+        region: "Papua New Guinea",
+        regionTimeZones: [
+            "Pacific/Port_Moresby",
+            "Pacific/Bougainville",
+
+        ],
+    },
+    {
+        region: "Paraguay",
+        regionTimeZones: [
+            "America/Asuncion",
+        ],
+    },
+    {
+        region: "Peru",
+        regionTimeZones: [
+            "America/Lima",
+        ],
+    },
+    {
+        region: "Philippines",
+        regionTimeZones: [
+            "Asia/Manila",
+        ],
+    },
+    {
+        region: "Pitcairn Islands (UK)",
+        regionTimeZones: [
+            "Pacific/Pitcairn",
+        ],
+    },
+    {
+        region: "Poland",
+        regionTimeZones: [
+            "Europe/Warsaw",
+        ],
+    },
+    {
+        region: "Portugal",
+        regionTimeZones: [
+            "Europe/Lisbon",
+            "Atlantic/Azores",
+        ],
+    },
+    {
+        region: "Puerto Rico (USA)",
+        regionTimeZones: [
+            "America/Puerto_Rico",
+        ],
+    },
+    // Q -------------
+
 
 
 ];
