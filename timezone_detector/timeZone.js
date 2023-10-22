@@ -962,6 +962,12 @@ const timeZones = [
         ],
     },
     //  O -------------------
+    {
+        region: "Oman",
+        regionTimeZones: [
+            "Asia/Muscat",
+        ],
+    },
 
 
 ];
