@@ -672,7 +672,62 @@ const timeZones = [
         ],
     },
     // L -------
-    
+    {
+        region: "Laos",
+        regionTimeZones: [
+            "Asia/Vientiane",
+        ],
+    },
+    {
+        region: "Latvia",
+        regionTimeZones: [
+            "Europe/Riga",
+        ],
+    },
+    {
+        region: "Lebanon",
+        regionTimeZones: [
+            "Asia/Beirut",
+        ],
+    },
+    {
+        region: "Lesotho",
+        regionTimeZones: [
+            "Africa/Maseru",
+        ],
+    },
+    {
+        region: "Liberia",
+        regionTimeZones: [
+            "Africa/Monrovia",
+        ],
+    },
+    {
+        region: "Libya",
+        regionTimeZones: [
+            "Africa/Tripoli",
+        ],
+    },
+    {
+        region: "Liechtenstein",
+        regionTimeZones: [
+            "Europe/Vaduz",
+        ],
+    },
+    {
+        region: "Lithuania",
+        regionTimeZones: [
+            "Europe/Vilnius",
+        ],
+    },
+    {
+        region: "Luxembourg",
+        regionTimeZones: [
+            "Europe/Luxembourg",
+        ],
+    },
+    // M-----------------
+
 
 ];
 
