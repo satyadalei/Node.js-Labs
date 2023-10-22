@@ -626,7 +626,54 @@ const timeZones = [
         ],
     },
     // K ------------
+    {
+        region: "Kazakhstan",
+        regionTimeZones: [
+            "Asia/Aqtau", 
+            "Asia/Urumqi", 
+        ],
+    },
+    {
+        region: "Kenya",
+        regionTimeZones: [
+            "Africa/Nairobi",
+        ],
+    },
+    {
+        region: "Kerguelen Islands (France)",
+        regionTimeZones: [
+            "Indian/Kerguelen",
+        ],
+    },
+    {
+        region: "Kiribati",
+        regionTimeZones: [
+            "Etc/GMT+12", //Gilbert Island Time
+            "Etc/GMT+13", //Phoenix Island Time
+            "Etc/GMT+14", //Line Islands Time
+        ],
+    },
+    {
+        region: "Kosovo",
+        regionTimeZones: [
+            "Europe/Belgrade", 
+        ],
+    },
+    {
+        region: "Kuwait",
+        regionTimeZones: [
+            "Asia/Kuwait", 
+        ],
+    },
+    {
+        region: "Kyrgyzstan",
+        regionTimeZones: [
+            "Asia/Bishkek",
+        ],
+    },
+    // L -------
     
+
 ];
 
 module.exports = timeZones;
