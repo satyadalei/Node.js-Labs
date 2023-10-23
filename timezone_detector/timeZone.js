@@ -1088,7 +1088,225 @@ const timeZones = [
         ],
     },
     // S ----------------
-
+    {
+        region: "Saba (Netherlands)",
+        regionTimeZones: [
+            "America/Tortola",
+        ],
+    },
+    {
+        region: "Saint Barthelemy (France)",
+        regionTimeZones: [
+            "America/St_Barthelemy",
+        ],
+    },
+    {
+        region: "Saint Helena (UK)",
+        regionTimeZones: [
+            "Atlantic/St_Helena",
+        ],
+    },
+    {
+        region: "Saint Kitts and Nevis",
+        regionTimeZones: [
+            "America/St_Kitts",
+        ],
+    },
+    {
+        region: "Saint Lucia",
+        regionTimeZones: [
+            "America/St_Lucia",
+        ],
+    },
+    {
+        region: "Saint Martin (France)",
+        regionTimeZones: [
+            "America/Marigot",
+        ],
+    },
+    {
+        region: "Saint Pierre and Miquelon (France)",
+        regionTimeZones: [
+            "America/Miquelon",
+        ],
+    },
+    {
+        region: "Saint Vincent and the Grenadines",
+        regionTimeZones: [
+            "America/St_Vincent",
+        ],
+    },
+    {
+        region: "Samoa",
+        regionTimeZones: [
+            "Pacific/Apia",
+        ],
+    },
+    {
+        region: "San Marino",
+        regionTimeZones: [
+            "Europe/San_Marino",
+        ],
+    },
+    {
+        region: "Sao Tome and Principe",
+        regionTimeZones: [
+            "Africa/Sao_Tome",
+        ],
+    },
+    {
+        region: "Saudi Arabia",
+        regionTimeZones: [
+            "Asia/Riyadh",
+        ],
+    },
+    {
+        region: "Senegal",
+        regionTimeZones: [
+            "Africa/Dakar",
+        ],
+    },
+    {
+        region: "Serbia",
+        regionTimeZones: [
+            "Europe/Belgrade",
+        ],
+    },
+    {
+        region: "Seychelles",
+        regionTimeZones: [
+            "Indian/Mahe",
+        ],
+    },
+    {
+        region: "Sierra Leone",
+        regionTimeZones: [
+            "Africa/Freetown",
+        ],
+    },
+    {
+        region: "Singapore",
+        regionTimeZones: [
+            "Asia/Singapore",
+        ],
+    },
+    {
+        region: "Sint Eustatius (Netherlands)",
+        regionTimeZones: [
+            "America/Tortola",
+        ],
+    },
+    {
+        region: "Sint Maarten (Netherlands)",
+        regionTimeZones: [
+            "America/Tortola",
+        ],
+    },
+    {
+        region: "Slovakia",
+        regionTimeZones: [
+            "Europe/Bratislava",
+        ],
+    },
+    {
+        region: "Slovenia",
+        regionTimeZones: [
+            "Europe/Ljubljana",
+        ],
+    },
+    {
+        region: "Slovenia",
+        regionTimeZones: [
+            "Europe/Ljubljana",
+        ],
+    },
+    {
+        region: "Solomon Islands",
+        regionTimeZones: [
+            "Pacific/Bougainville",
+        ],
+    },
+    {
+        region: "Somalia",
+        regionTimeZones: [
+            "Africa/Mogadishu",
+        ],
+    },
+    {
+        region: "South Africa",
+        regionTimeZones: [
+            "Africa/Maseru",
+        ],
+    },
+    {
+        region: "South Georgia Island (UK)",
+        regionTimeZones: [
+            "Atlantic/South_Georgia",
+        ],
+    },
+    {
+        region: "South Korea",
+        regionTimeZones: [
+            "Asia/Seoul",
+        ],
+    },
+    {
+        region: "South Sudan",
+        regionTimeZones: [
+            "Africa/Juba",
+        ],
+    },
+    {
+        region: "Spain",
+        regionTimeZones: [
+            "Europe/Madrid", // major part
+            "Atlantic/Canary", // Spain, Canary Islands
+        ],
+    },
+    {
+        region: "Sri Lanka",
+        regionTimeZones: [
+            "Asia/Colombo",
+        ],
+    },
+    {
+        region: "Sudan",
+        regionTimeZones: [
+            "Africa/Khartoum",
+        ],
+    },
+    {
+        region: "Suriname",
+        regionTimeZones: [
+            "America/Paramaribo",
+        ],
+    },
+    {
+        region: "Svalbard and Jan Mayen (Norway)",
+        regionTimeZones: [
+            "Arctic/Longyearbyen",
+        ],
+    },
+    {
+        region: "Sweden",
+        regionTimeZones: [
+            "Europe/Stockholm",
+        ],
+    },
+    {
+        region: "Switzerland",
+        regionTimeZones: [
+            "Europe/Zurich",
+        ],
+    },
+    {
+        region: "Syria",
+        regionTimeZones: [
+            "Asia/Damascus",
+        ],
+    },
+    // T -------------------
+    
 
 
 ];
