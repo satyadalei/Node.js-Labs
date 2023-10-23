@@ -1306,7 +1306,85 @@ const timeZones = [
         ],
     },
     // T -------------------
-    
+    {
+        region: "Taiwan",
+        regionTimeZones: [
+            "Asia/Taipei",
+        ],
+    },
+    {
+        region: "Tajikistan",
+        regionTimeZones: [
+            "Africa/Dar_es_Salaam",
+        ],
+    },
+    {
+        region: "Thailand",
+        regionTimeZones: [
+            "Asia/Bangkok",
+        ],
+    },
+    {
+        region: "Timor-Leste",
+        regionTimeZones: [
+            "Asia/Dili",
+        ],
+    },
+    {
+        region: "Togo",
+        regionTimeZones: [
+            "Africa/Lome",
+        ],
+    },
+    {
+        region: "Tokelau (New Zealand)",
+        regionTimeZones: [
+            "Pacific/Fakaofo",
+        ],
+    },
+    {
+        region: "Trinidad and Tobago",
+        regionTimeZones: [
+            "America/Port_of_Spain",
+        ],
+    },
+    {
+        region: "Tristan da Cunha (UK)",
+        regionTimeZones: [
+            "Atlantic/St_Helena",
+        ],
+    },
+    {
+        region: "Tunisia",
+        regionTimeZones: [
+            "Africa/Tunis",
+        ],
+    },
+    {
+        region: "Turkey",
+        regionTimeZones: [
+            "Asia/Istanbul",
+        ],
+    },
+    {
+        region: "Turkmenistan",
+        regionTimeZones: [
+            "Asia/Ashgabat",
+        ],
+    },
+    {
+        region: "Turks and Caicos Islands (UK)",
+        regionTimeZones: [
+            "America/Grand_Turk",
+        ],
+    },
+    {
+        region: "Tuvalu",
+        regionTimeZones: [
+            "Pacific/Funafuti",
+        ],
+    },
+    // U --------------
 
 
 ];
