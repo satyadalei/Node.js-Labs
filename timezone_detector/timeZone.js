@@ -1051,6 +1051,43 @@ const timeZones = [
             "Asia/Qatar",
         ],
     },
+    // R ---------
+    {
+        region: "Reunion (France)",
+        regionTimeZones: [
+            "Indian/Reunion",
+        ],
+    },
+    {
+        region: "Romania",
+        regionTimeZones: [
+            "Europe/Bucharest",
+        ],
+    },
+    {
+        region: "Russia",
+        regionTimeZones: [
+            "Europe/Kaliningrad",
+            "Europe/Moscow",
+            "Europe/Samara",
+            "Asia/Yekaterinburg",
+            "Asia/Omsk",
+            "Asia/Krasnoyarsk",
+            "Asia/Irkutsk",   //UTC+8
+            "Asia/Yakutsk",  // UTC+9
+            "Asia/Vladivostok", // UTC+ 10
+            "Asia/Magadan",  //UTC+ 11
+            "Asia/Kamchatka", //UTC+12
+            // "UTC+02:00 Kaliningrad Time Zone",
+        ],
+    },
+    {
+        region: "Rwanda",
+        regionTimeZones: [
+            "Africa/Kigali",
+        ],
+    },
+    // S ----------------
 
 
 
