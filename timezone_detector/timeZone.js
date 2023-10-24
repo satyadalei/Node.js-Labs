@@ -1385,6 +1385,69 @@ const timeZones = [
         ],
     },
     // U --------------
+    {
+        region: "Uganda",
+        regionTimeZones: [
+            "Africa/Kampala",
+        ],
+    },
+    {
+        region: "Ukraine",
+        regionTimeZones: [
+            "Europe/Kyiv",
+        ],
+    },
+    {
+        region: "United Arab Emirates(UAE)",
+        regionTimeZones: [
+            "Asia/Dubai",
+        ],
+    },
+    {
+        region: "United Kingdom (UK)",
+        regionTimeZones: [
+            "Europe/London",
+        ],
+    },
+    {
+        region: "United States of America (USA)",
+        regionTimeZones: [
+            "US/Samoa",  //             3:46 --
+            "US/Hawaii",   //           4:46 --
+            // "US/Aleutian",  //          5:46 
+            "US/Alaska",  //            6:46 --
+            "US/Pacific",  //           7:46 --
+            // "US/Arizona",  //           7:46
+            "US/Mountain", //           8:46 --
+            "US/Central",  //           9:46 --
+            // "US/Indiana-Starke",  //    9:46
+            // "US/East-Indiana", //       10:46
+            "US/Eastern",  //           10:46 --
+            // "US/Michigan",  //          10:46
+            // "America/New_York" //       11:46
+            "America/Puerto_Rico",   // UTC-4
+            "Pacific/Guam",         // UTC+10
+        ],
+    },
+    {
+        region: "Uruguay",
+        regionTimeZones: [
+            "America/Montevideo",
+        ],
+    },
+    {
+        region: "US Virgin Islands (USA)",
+        regionTimeZones: [
+            "America/Tortola",
+        ],
+    },
+    {
+        region: "Uzbekistan",
+        regionTimeZones: [
+            "Asia/Tashkent",
+        ],
+    },
+   //  V ----------------
 
 
 ];
