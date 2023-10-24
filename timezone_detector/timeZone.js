@@ -1447,8 +1447,32 @@ const timeZones = [
             "Asia/Tashkent",
         ],
     },
-   //  V ----------------
-
+    //  V ----------------
+    {
+        region: "Vanuatu",
+        regionTimeZones: [
+            "Pacific/Noumea",
+        ],
+    },
+    {
+        region: "Vatican City (Holy See)",
+        regionTimeZones: [
+            "Europe/Vatican",
+        ],
+    },
+    {
+        region: "Venezuela",
+        regionTimeZones: [
+            "America/Caracas",
+        ],
+    },
+    {
+        region: "Vietnam",
+        regionTimeZones: [
+            "Asia/Ho_Chi_Minh",
+        ],
+    },
+    // W ----------------
 
 ];
 
