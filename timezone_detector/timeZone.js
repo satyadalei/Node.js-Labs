@@ -1488,7 +1488,7 @@ const timeZones = [
         ],
     },
     {
-        region: "Zambia",
+        region: "Zimbabwe",
         regionTimeZones: [
             "Africa/Harare",
         ],
