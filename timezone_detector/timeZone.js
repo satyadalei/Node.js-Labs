@@ -1473,6 +1473,26 @@ const timeZones = [
         ],
     },
     // W ----------------
+    // Y ----------------
+    {
+        region: "Yemen",
+        regionTimeZones: [
+            "Asia/Aden",
+        ],
+    },
+    // Z ----------------
+    {
+        region: "Zambia",
+        regionTimeZones: [
+            "Africa/Lusaka",
+        ],
+    },
+    {
+        region: "Zambia",
+        regionTimeZones: [
+            "Africa/Harare",
+        ],
+    },
 
 ];
 
